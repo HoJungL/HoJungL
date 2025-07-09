@@ -60,6 +60,10 @@
 </a>
 -->
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/HoJungL)
+
+
+
 ### 저의 학습 내용을 기록한 사이트입니다.
 <a href="https://ghwjd5684.tistory.com/">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tistory-%2523D4D4D4.svg?style=flat&logo=blogger&logoColor=white&labelColor=black&color=black&link=https%3A%2F%2Flittlesam95.tistory.com%2F">
