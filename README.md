@@ -60,6 +60,8 @@
 </a>
 -->
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/HoJungL)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=HoJungL)](https://git.io/streak-stats)
 
 
