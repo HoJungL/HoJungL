@@ -60,11 +60,6 @@
 </a>
 -->
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/HoJungL)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HoJungL)](https://git.io/streak-stats)
-
-
 
 ### 저의 학습 내용을 기록한 사이트입니다.
 <a href="https://ghwjd5684.tistory.com/">
