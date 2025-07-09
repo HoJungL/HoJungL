@@ -60,8 +60,6 @@
 </a>
 -->
 
-### GitHub 잔디
-![GitHub Contribution Graph](https://ghchart.rshah.org/HoJungL)
 
 ### Stats & Trophy
 [![GitHub Streak](https://streak-stats.demolab.com?user=HoJungL)](https://git.io/streak-stats)
