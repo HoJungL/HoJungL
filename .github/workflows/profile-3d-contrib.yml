@@ -1,0 +1,40 @@
+name: Update 3D contribution graph
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-3d-contrib.yml'
+  schedule:
+    # 매일 오전 3시 (KST)에 실행됩니다. GitHub Actions의 cron은 UTC 기준입니다.
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate 3D contribution graph
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Generate graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HoJungL
+
+      - name: Commit generated SVG files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: update 3D contribution graph'
+          git push
