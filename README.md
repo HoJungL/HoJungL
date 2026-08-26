@@ -4,8 +4,6 @@
 
 ## 필요한 개발자가 되고자 하는 "이호정"입니다.
 
-> Java와 Spring Boot를 중심으로 백엔드를 개발합니다.
-
 <p align="center">
   <a href="https://github.com/HoJungL"><img src="https://img.shields.io/badge/GitHub-HoJungL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://ghwjd5684.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" /></a>
