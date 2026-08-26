@@ -4,15 +4,23 @@
 
 ## 필요한 개발자가 되고자 하는 "이호정"입니다.
 
+> Java와 Spring Boot를 중심으로 백엔드를 개발합니다.
+
 <p align="center">
   <a href="https://github.com/HoJungL"><img src="https://img.shields.io/badge/GitHub-HoJungL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://ghwjd5684.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" /></a>
   <a href="https://solved.ac/profile/ghwjd5684"><img src="https://img.shields.io/badge/BOJ-ghwjd5684-17CE3A?style=for-the-badge" alt="BOJ" /></a>
 </p>
 
-### 경험
+## Projects & Experience
+
+### 대표 프로젝트
+
 - **헬스케어 데이터 플랫폼 백엔드 개발** : 사용자·관리자 API 및 건강 데이터 처리 기능 개발
 - **장례식장 상담 시스템 백엔드 개발 및 배포** : Cloudflare Workers 기반 API 구축, DB 설계 및 배포 환경 구성
+
+### 경험 및 활동
+
 - **삼성 청년 SW 아카데미 12기** : 2024.07 ~ 2025.06
 - **삼성 청년 SW 아카데미 Mobile 이수 및 1학기 최종 프로젝트 우수상**
 - **코딩 자율 학습단 6기** : Java 및 Spring Boot를 활용한 웹사이트 구현
@@ -27,6 +35,8 @@
 - **SQL개발자(SQLD)**
 
 &nbsp;
+
+## Tech Stack
 
 ### 기술 스택 - Mobile / Frontend
 
@@ -69,6 +79,8 @@
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD.svg?style=for-the-badge&logo=perplexity&logoColor=white)
 
 &nbsp;
+
+## Activity & Archive
 
 ### 활동 및 대표적인 기록
 
