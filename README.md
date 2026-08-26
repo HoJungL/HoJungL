@@ -61,7 +61,8 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 기술 스택 - Messaging / Streaming
 
@@ -72,12 +73,27 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;&nbsp;
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![QueryDSL](https://img.shields.io/badge/QueryDSL-4479A1.svg?style=for-the-badge)
+
+### 기술 스택 - Security / Authentication
+
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)&nbsp;&nbsp;
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424.svg?style=for-the-badge)&nbsp;&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)&nbsp;&nbsp;
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D.svg?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ### 기술 스택 - Infra / Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 기술 스택 - Build / Test
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)&nbsp;&nbsp;
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)&nbsp;&nbsp;
+![Mockito](https://img.shields.io/badge/Mockito-78A641.svg?style=for-the-badge)
 
 ### 기술 스택 - Collaboration / Design
 
