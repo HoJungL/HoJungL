@@ -107,9 +107,11 @@
 
 ## Activity & Archive
 
-### 활동 및 대표적인 기록
+### GitHub 활동
 
 [![solved.ac Tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=ghwjd5684)](https://solved.ac/profile/ghwjd5684)
+
+![GitHub 활동 통계](./images/userstats.svg)
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
