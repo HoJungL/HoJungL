@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/HoJungL"><img src="https://img.shields.io/badge/GitHub-HoJungL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://ghwjd5684.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" /></a>
-  <a href="https://solved.ac/profile/ghwjd5684"><img src="https://img.shields.io/badge/BOJ-ghwjd5684-17CE3A?style=for-the-badge" alt="BOJ" /></a>
 </p>
 
 ## Projects & Experience
@@ -106,12 +105,6 @@
 &nbsp;
 
 ## Activity & Archive
-
-### GitHub 활동
-
-[![solved.ac Tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=ghwjd5684)](https://solved.ac/profile/ghwjd5684)
-
-![GitHub 활동 통계](./images/userstats.svg)
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
